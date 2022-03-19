@@ -1,5 +1,5 @@
 //
-//  File.swift
+//  HTTPMethod.swift
 //  
 //
 //  Created by ilter on 19.03.2022.

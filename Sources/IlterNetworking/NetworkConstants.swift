@@ -1,5 +1,5 @@
 //
-//  File 2.swift
+//  NetworkConstants.swift
 //  
 //
 //  Created by ilter on 19.03.2022.
